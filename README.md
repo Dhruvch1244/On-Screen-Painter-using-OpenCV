@@ -1,5 +1,6 @@
 ﻿# On-Screen-Painter-using-OpenCV
  - Simple Python Code
+ - Detects blue color to write on screen
  - To Run the program: Run ```pip install opencv-python```.
 
 Features - 
